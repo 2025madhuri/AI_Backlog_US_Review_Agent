@@ -1,0 +1,18 @@
+[
+  {
+    "id": "US-101",
+    "title": "Login with OTP",
+    "description": "As a customer, I want to login using OTP so that I can securely access my account.",
+    "acceptance_criteria": [
+      "OTP is sent to the registered mobile number.",
+      "OTP expires after 5 minutes.",
+      "Invalid OTP shows a clear error message."
+    ]
+  },
+  {
+    "id": "US-102",
+    "title": "Dashboard",
+    "description": "Create dashboard",
+    "acceptance_criteria": []
+  }
+]

@@ -1,0 +1,5 @@
+story_id,title,score,status,issues,suggestions
+US-101,Login with OTP,100,Ready,[],[]
+US-102,Dashboard,54,High Risk,"['INVEST failed: Negotiable', 'INVEST failed: Valuable', 'INVEST failed: Testable', 'DoR missing: Has business value', 'DoR missing: Has acceptance criteria', 'DoR missing: Acceptance criteria are testable']","[""Add business value using 'so that' format"", 'Add measurable acceptance criteria']"
+US-103,Order Cancellation,100,Ready,[],[]
+US-104,Profile Update,77,Needs Refinement,"['INVEST failed: Valuable', 'DoR missing: Has business value', 'DoR missing: Acceptance criteria are testable']","[""Add business value using 'so that' format""]"

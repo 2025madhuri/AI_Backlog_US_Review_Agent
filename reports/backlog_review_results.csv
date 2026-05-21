@@ -1,0 +1,3 @@
+story_id,title,score,status,issues,suggestions
+US-101,Login with OTP,82,Mostly Ready,['Minor edge cases missing'],"['Add negative scenarios', 'Add validation rules']"
+US-102,Dashboard,35,Needs Refinement,"['Acceptance criteria missing', 'Story is vague', 'Business value unclear', 'Story is not testable']","['Add acceptance criteria', 'Clarify business goal', 'Use proper user story format', 'Add measurable outcomes']"

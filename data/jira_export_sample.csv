@@ -1,0 +1,5 @@
+story_id,title,description,acceptance_criteria,priority,status
+US-101,Login with OTP,"As a customer, I want to login using OTP so that I can securely access my account.","OTP is sent to registered mobile number; OTP expires after 5 minutes; Invalid OTP shows error message",High,Ready
+US-102,Dashboard,"Create dashboard","",Medium,Draft
+US-103,Order Cancellation,"As a customer, I want to cancel my order before preparation so that I can avoid unwanted purchases.","Cancel allowed before preparation; Refund triggered after cancellation; Cancellation hidden after preparation starts",High,Ready
+US-104,Profile Update,"User should update profile","Name and email can be updated",Low,Refinement
